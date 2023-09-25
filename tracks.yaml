@@ -1,3 +1,4 @@
+release_repo_url: https://github.com/TechMagicKK/aandd_ekew_driver_py-release.git
 tracks:
   humble:
     actions:
